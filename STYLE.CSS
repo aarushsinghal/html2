@@ -1,0 +1,23 @@
+h2{
+    color:darkred;
+}
+*{
+    border:solid #000; 
+}
+.header{
+    display:flex
+}
+.pics{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+}
+.foot{
+    display:flex;
+    justify-content: flex-end;
+}
+p{
+    text-align:center;
+    font-weight: "bold";
+    color: rebeccapurple;
+}
